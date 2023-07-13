@@ -7,8 +7,8 @@ public class SampleTest {
 	@Test
 	public void hiTest()
 	{
-		System.out.println("hi");
+		System.out.println("hi Jenkins");
 	}
 	//Pull Back
-	
+	//Chekking
 }
